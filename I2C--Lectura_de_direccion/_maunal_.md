@@ -1,6 +1,6 @@
-==============================
-  ESCÁNER I2C DUAL PARA RP2040 ZERO
-==============================
+=================================
+ESCÁNER I2C DUAL PARA RP2040 ZERO
+=================================
 
 Este archivo contiene:
 1. Descripción del programa
